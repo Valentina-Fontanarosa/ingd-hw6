@@ -1,0 +1,2 @@
+('table_05-proc.json', 'Stock type')
+('table_013-proc.json', 'Stock type')
